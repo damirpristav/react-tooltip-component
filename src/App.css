@@ -75,7 +75,7 @@
   height: 0;
   width: 0;
   position: absolute;
-  border-color: rgba(255,0,0,0,0);
+  border-color: rgba(255,0,0,0);
   border-width: 6px;
 }
 
