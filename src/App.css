@@ -138,7 +138,7 @@
   border-left-color: var(--tooltip-bg);
 }
 .tooltip--right-top::after {
-  bottom: 10px;
+  top: 10px;
   right: 100%;
   border-right-color: var(--tooltip-bg);
 }

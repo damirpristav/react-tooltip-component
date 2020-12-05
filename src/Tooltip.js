@@ -78,6 +78,7 @@ const TooltipContent = ({ tooltipClass, content, position, tooltipPosition, dura
         el.style.opacity = '1';
       }, 20);
     }
+    // eslint-disable-next-line
   }, []);
 
   const output = <div className={tooltipClass} ref={tooltipEl}>{content}</div>
